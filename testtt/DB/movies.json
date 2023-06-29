@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Title": "Shrek",
+    "Category": "Animation, Adventure, Comedy",
+    "Directors": [ "Andrew Adamson", "Vicky Jenson" ],
+    "Actors": [ "Mike Myers", "Eddie Murphy", "kkk" ],
+    "TrailerUrl": "https://www.youtube.com/watch?v=W37DlG1i61s",
+    "Rating": 10.0
+  },
+  {
+    "Id": 2,
+    "Title": "shrek 2",
+    "Category": "Animation, Adventure, Comedy",
+    "Directors": [ "Andrew Adamson", "Kelly Asbury", "Conrad Vernon" ],
+    "Actors": [ "Mike Myers", "Eddie Murphy" ],
+    "TrailerUrl": "https://www.youtube.com/watch?v=V6X5ti4YlG8",
+    "Rating": 5.0
+  },
+  {
+    "Id": 3,
+    "Title": "Shrek the Third",
+    "Category": "Animation, Adventure, Comedy",
+    "Directors": [ "Chris Miller", "Raman Hui", "Andrew Adamson" ],
+    "Actors": [ "Mike Myers", "Eddie Murphy", "kkk" ],
+    "TrailerUrl": "https://www.youtube.com/watch?v=_MoIr7811Bs",
+    "Rating": 5.0
+  }
+]

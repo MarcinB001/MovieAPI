@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "Andrew Adamson",
+    "Movies": [ "Shrek", "Shrek 2", "Shrek the Third" ],
+    "DirectorRating": 6.666666666666667,
+    "RatedMoviesCount": 3
+  },
+  {
+    "Id": 2,
+    "Name": "Vicky Jenson",
+    "Movies": [ "Shrek" ],
+    "DirectorRating": 10.0,
+    "RatedMoviesCount": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Kelly Asbury",
+    "Movies": [ "Shrek 2" ],
+    "DirectorRating": 5.0,
+    "RatedMoviesCount": 1
+  },
+  {
+    "Id": 4,
+    "Name": "Conrad Vernon",
+    "Movies": [ "Shrek 2" ],
+    "DirectorRating": 5.0,
+    "RatedMoviesCount": 1
+  },
+  {
+    "Id": 5,
+    "Name": "Chris Miller",
+    "Movies": [ "Shrek the Third" ],
+    "DirectorRating": 5.0,
+    "RatedMoviesCount": 1
+  },
+  {
+    "Id": 6,
+    "Name": "Raman Hui",
+    "Movies": [ "Shrek the Third" ],
+    "DirectorRating": 5.0,
+    "RatedMoviesCount": 1
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mike Myers",
+    "Movies": [
+      "Shrek",
+      "Shrek 2",
+      "Shrek the Third"
+    ],
+    "MoviesCount": 3
+  },
+  {
+    "Id": 2,
+    "Name": "Eddie Murphy",
+    "Movies": [ "Shrek", "Shrek 2", "Shrek the Third" ],
+    "MoviesCount": 3
+  },
+  {
+    "Id": 3,
+    "Name": "kkk",
+    "Movies": [ "Shrek", "Shrek the Third" ],
+    "MoviesCount": 2
+  }
+]
